@@ -10,4 +10,5 @@ group :development do
   gem "bundler", ">= 1.0.0"
   gem "jeweler", "~> 1.8.2"
   gem "activerecord", "~> 3.2.11"
+  gem 'arel', :git => 'git://github.com/rails/arel.git'
 end
