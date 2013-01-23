@@ -9,5 +9,5 @@ group :development do
   gem "shoulda", ">= 0"
   gem "bundler", ">= 1.0.0"
   gem "jeweler", "~> 1.8.2"
-  gem "activerecord", "~> 3.0.0"
+  gem "activerecord", "~> 3.2.11"
 end
